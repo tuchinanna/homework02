@@ -1,10 +1,10 @@
-// Подключение необходимых файлов
+// Connecting the necessary files
 #include <iostream>
 #include <string>
 int main() {
-    // Создание строки и запрос ввода от пользователя
+    // Creating a string and requesting input from the user
     std::string name;
     std::cin >> name;
-    // Вывод сообщения на экран
+    // Displaying a message on the screen
     std::cout << "Hello world from " << name << std::endl;
 }
