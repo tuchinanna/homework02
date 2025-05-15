@@ -1,7 +1,9 @@
 // Connecting the necessary files
 #include <iostream>
 #include <string>
-int main() {
+int 
+main() 
+{
     // Creating a string and requesting input from the user
     std::string name;
     std::cin >> name;
